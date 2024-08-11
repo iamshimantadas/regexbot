@@ -1,5 +1,9 @@
 # Project developed using PHP, AJAX, and MySQL
 
+*.php linguist-detectable=true
+*.js linguist-detectable=true
+
+
 # Ignore system files
 .DS_Store
 Thumbs.db
@@ -76,4 +80,3 @@ wp-content/upgrade/
 *.env
 
 
-*.php linguist-detectable=true
