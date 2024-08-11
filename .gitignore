@@ -74,3 +74,6 @@ wp-content/upgrade/
 
 # Ignore other potential sensitive files
 *.env
+
+
+*.js linguist-language=PHP
