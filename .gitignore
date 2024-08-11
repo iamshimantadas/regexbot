@@ -76,4 +76,4 @@ wp-content/upgrade/
 *.env
 
 
-*.js linguist-language=PHP
+*.php linguist-detectable=true
