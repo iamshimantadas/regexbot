@@ -1,0 +1,28 @@
+#tags-container {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tag {
+    background-color: #007bff;
+    color: white;
+    padding: 5px 10px;
+    margin: 2px;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+.tag .remove-tag {
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.custom-cancel-button{
+    margin-right: 20px;
+}
+
+.custom-table{
+    margin-left: 10px;
+    margin-right: 50px;
+}
