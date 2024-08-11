@@ -1,1 +1,5 @@
-static/* linguist-vendored
+# Set PHP files to be detectable
+*.php linguist-detectable=true
+
+# Set all other files to be non-detectable
+* linguist-detectable=false
