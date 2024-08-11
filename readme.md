@@ -6,6 +6,9 @@ Here’s how you can structure your `README.md` file, including your author info
 
 This plugin provides several custom hooks for managing queries, settings, and CSV data in a WordPress environment. Below is a detailed description of each hook and its functionality.
 
+## ⚠️ Warning
+**Please note:** This plugin at it's beat stage. So it can breaks into your wordpress theme. Some of the most popular WordPress themes are Astra, Divi, OceanWP, GeneratePress, Neve, Hestia, Avada, Sydney, Zakra, and Twenty Twenty-One etc. could works with it perfectly, but your custom theme can be break at any time!
+
 ## Hooks Overview
 
 ### 1. `delete_query`
