@@ -4,8 +4,6 @@ if (!defined('ABSPATH')) {
 }
 
 $path = $_SERVER['DOCUMENT_ROOT'];
-include_once $path . '/wp-config.php';
-
 global $wpdb;
 ?>
 
