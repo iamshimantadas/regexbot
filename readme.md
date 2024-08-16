@@ -4,10 +4,7 @@ Here’s how you can structure your `README.md` file, including your author info
 
 # Plugin Name
 
-This plugin provides several custom hooks for managing queries, settings, and CSV data in a WordPress environment. Below is a detailed description of each hook and its functionality.
-
-## ⚠️ Warning
-**Please note:** This plugin at it's beat stage. So it can breaks into your wordpress theme. Some of the most popular WordPress themes are Astra, Divi, OceanWP, GeneratePress, Neve, Hestia, Avada, Sydney, Zakra, and Twenty Twenty-One etc. could works with it perfectly along with your custom theme too!
+This plugin provides several custom hooks for managing queries, settings, and CSV data in a WordPress environment. Below is a detailed description of each hook and its functionality. Some of the most popular WordPress themes like Astra, Divi, OceanWP, GeneratePress, Neve, Hestia, Avada, Sydney, Zakra, and Twenty Twenty-One etc. could works with it perfectly along with your custom theme too!
 
 ## Hooks Overview
 
